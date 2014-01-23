@@ -1,5 +1,5 @@
-#ifndef SCREENCASTS
-#define SCREENCASTS
+#ifndef HEADER
+#define HEADER
 
 /* standard headers */
 #include <fstream>
@@ -22,9 +22,6 @@
 #else
 #include <GL/glut.h>
 #endif
-
-/* prototypes */
-#include "print.h"
 
 
 #endif
